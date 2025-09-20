@@ -1,3 +1,15 @@
+# Purpose: Develop a Python program that displays high-level CPU and memory information. This includes: CPU usage percentage, CPU count
+# total memory available, and memory usage.
+
+# Expected Result: The program should display CPU usage percentage, CPU count, total memory available, and memory usage
+
+# References: 
+# - https://psutil.readthedocs.io/en/latest/
+# - https://docs.python.org/3/library/sys.html
+
+# Version   Author      Date            Description
+# 1         Duke Pham   2025-09-19      Display high-level CPU and memory information
+
 import psutil
 import sys
 

@@ -7,6 +7,7 @@
 # - https://psutil.readthedocs.io/en/latest/
 # - https://docs.python.org/3/library/sys.html
 # - https://www.juniper.net/documentation/us/en/software/junos/automation-scripting/topics/task/junos-python-modules-psutil-module.html
+# - https://www.geeksforgeeks.org/python/how-to-catch-a-keyboardinterrupt-in-python/
 # - https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797
 
 # Version   Author      Date            Description

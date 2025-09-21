@@ -6,6 +6,8 @@
 # References: 
 # - https://psutil.readthedocs.io/en/latest/
 # - https://docs.python.org/3/library/sys.html
+# - https://www.juniper.net/documentation/us/en/software/junos/automation-scripting/topics/task/junos-python-modules-psutil-module.html
+
 
 # Version   Author      Date            Description
 # 1         Duke Pham   2025-09-19      Display high-level CPU and memory information
